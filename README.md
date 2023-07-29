@@ -15,7 +15,7 @@ We made sand do math and I want to learn the diffrent ways the sand works.
 
 I'm currently working on / learning learning python3 and golang. there will be a golang progect soon but I'm out of ideas.
 
-If for some terrible reason you need to reach me shoot me an email at junk@ramfield.net (I swear I check it)
+If for some terrible reason you need to reach me shoot me an email at dwhitfield@ramfield.net
 
 </br>
 
